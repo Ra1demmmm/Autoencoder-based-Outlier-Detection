@@ -18,7 +18,7 @@ This repo contains source codes for the paper [**Improving Autoencoder-based Out
 ## Get started
 
 * Prepare the dataset.
-    * Place the dataset in *./dataset/original/*
+    * Place the dataset in *./dataset/original/* \
         For example:
         ```
         ├── original/
@@ -28,22 +28,22 @@ This repo contains source codes for the paper [**Improving Autoencoder-based Out
         ```
         **The dataset name should be consistent everywhere in this project.**
 
-    * Open *./data_pre.py*
+    * Open *./data_pre.py* \
         Edit "data_dir", "target_dir", and "dataset" according to your setting in the previous step.
 
     * Run *python ./data_pre.py*
 
 * Do main experiments.
-    * Open *./run_main.sh*
-        Edit the experimental settings.
-        --gpu: Training on which GPU.
-        --dataset: Name of the dataset
-        --data_dir: Directory of data
-        --epochs: Number of training epochs
-        --result_dir: Directory to dump results
-        --net: Which network to use: AE; PAE
-        --alpha: Hyper-paramter alpha for PAE
-        --beta: Hyper-paramter beta for PAE
+    * Open *./run_main.sh* \
+        Edit the experimental settings. \
+        --gpu: Training on which GPU. \
+        --dataset: Name of the dataset \
+        --data_dir: Directory of data \
+        --epochs: Number of training epochs \
+        --result_dir: Directory to dump results \
+        --net: Which network to use: AE; PAE \
+        --alpha: Hyper-paramter alpha for PAE \
+        --beta: Hyper-paramter beta for PAE \
         --inits: How many random initial states for step 2.
 
     * Run *bash ./run_main.sh*
