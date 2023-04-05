@@ -1,0 +1,1 @@
+Namespace(alpha=0.5, beta=2.0, data_dir='./dataset/processed', dataset='Optdigits', epochs=5000, gpu='0', inits=20, net='PAE', result_dir='./result/pae/Optdigits')
