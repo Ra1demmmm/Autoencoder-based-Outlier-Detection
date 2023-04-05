@@ -49,7 +49,7 @@ This repo contains source codes for the paper [**Improving Autoencoder-based Out
     * Run *bash ./run_main.sh*
 
 ## Dataset
-All datasets used can be found in [OutlierNet](www.OutlierNet.com).
+All datasets used can be found in [OutlierNet](http://www.OutlierNet.com).
 
 
 ## Citation
