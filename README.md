@@ -1,7 +1,7 @@
 
-# Improving Autoencoder-based Outlier Detection with Adjustable Probabilistic Reconstruction Error and Mean-shift Outlier Scoring
+# MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction
 
-This repo contains source codes for the paper [**Improving Autoencoder-based Outlier Detection with Adjustable Probabilistic Reconstruction Error and Mean-shift Outlier Scoring**](http://arxiv.org/abs/2304.00709) submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+This repo contains source codes for the paper [**MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction**](http://arxiv.org/abs/2304.00709).
 
   
 
@@ -55,7 +55,7 @@ All datasets used can be found in [OutlierNet](http://www.OutlierNet.com).
 ## Citation
 ```
 @misc{tan2023improving,
-    title={Improving Autoencoder-based Outlier Detection with Adjustable Probabilistic Reconstruction Error and Mean-shift Outlier Scoring},
+    title={MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction},
     author={Xu Tan and Jiawei Yang and Junqi Chen and Sylwan Rahardja and Susanto Rahardja},
     year={2023},
     eprint={2304.00709},
