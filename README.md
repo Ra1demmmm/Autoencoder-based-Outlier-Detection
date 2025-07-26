@@ -1,7 +1,7 @@
 
 # MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction
 
-This repo contains source codes for the paper [**MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction**](http://arxiv.org/abs/2304.00709).
+This repo contains source codes for the paper [**MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction**](https://www.sciencedirect.com/science/article/abs/pii/S003132032500127X).
 
   
 
@@ -54,12 +54,14 @@ All datasets used can be found in [OutlierNet](http://www.OutlierNet.com).
 
 ## Citation
 ```
-@misc{tan2023improving,
-    title={MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction},
-    author={Xu Tan and Jiawei Yang and Junqi Chen and Sylwan Rahardja and Susanto Rahardja},
-    year={2023},
-    eprint={2304.00709},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@article{TAN2025111467,
+    title = {MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction},
+    journal = {Pattern Recognition},
+    volume = {163},
+    pages = {111467},
+    year = {2025},
+    issn = {0031-3203},
+    doi = {https://doi.org/10.1016/j.patcog.2025.111467},
+    url = {https://www.sciencedirect.com/science/article/pii/S003132032500127X}
 }
 ```
